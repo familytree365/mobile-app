@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "enso",
-    "slug": "enso",
+    "name": "familytree365",
+    "slug": "familytree365",
     "platforms": [
       "ios",
       "android"
@@ -29,9 +29,9 @@
       "versionCode": 1
     },
     "description": "",
-    "githubUrl": "https://github.com/laravel-enso/enso",
+    "githubUrl": "https://github.com/familytree365",
     "extra": {
-      "api_url": "https://laravel-enso.com/"
+      "api_url": "https://api.familytree365.com"
     }
   }
 }
