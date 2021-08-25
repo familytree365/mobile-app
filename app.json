@@ -22,10 +22,10 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "ro.earthlink.enso"
+      "bundleIdentifier": "familytree365.com"
     },
     "android": {
-      "package": "ro.earthlink.enso",
+      "package": "familytree365.com",
       "versionCode": 1
     },
     "description": "",
